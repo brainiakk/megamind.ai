@@ -1,4 +1,4 @@
-# MegaMind
+# MegaMind AI Assistant
 
 MegaMind is an Simple AI assistant built with Langchain, designed to provide a variety of services through voice interaction. The system leverages multiple tools for tasks such as web searching, weather updates, and file management, mimicking the experience of a personal assistant like Jarvis from Iron Man.
 
