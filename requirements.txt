@@ -1,0 +1,16 @@
+langchain==0.2.1
+langchain_google_vertexai
+langchain_community
+python-dotenv
+opencv-python
+pyaudio
+pillow
+openai-whisper
+faster_whisper
+sox
+SpeechRecognition
+pygame
+ane_transformers
+coremltools
+pyowm
+exa_py
