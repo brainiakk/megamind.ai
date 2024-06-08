@@ -12,3 +12,4 @@ modules/whisper.cpp/models/ggml-base.en.bin
 modules/whisper.cpp/models/coreml-encoder-base.en.mlpackage
 modules/whisper.cpp/models/ggml-base.en-encoder.mlmodelc
 data/memory.json
+modules/piper/pp/install
