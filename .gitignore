@@ -6,8 +6,9 @@ outputs
 data/vision/*
 .env
 application_default_credentials.json
-modules/piper/
+modules/piper/models
 modules/piper/pp/download/onnxruntime-osx-arm64-1.14.1.tgz
 modules/whisper.cpp/models/ggml-base.en.bin
 modules/whisper.cpp/models/coreml-encoder-base.en.mlpackage
 modules/whisper.cpp/models/ggml-base.en-encoder.mlmodelc
+data/memory.json

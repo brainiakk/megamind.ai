@@ -44,6 +44,7 @@ The project relies on the following libraries and tools:
 langchain==0.2.1
 langchain_google_vertexai
 langchain_community
+unstructured[all-docs]
 python-dotenv
 opencv-python
 pyaudio
@@ -57,6 +58,9 @@ ane_transformers
 coremltools
 pyowm
 exa_py
+rich
+onnxruntime==1.15
+onnx==1.15
 ```
 
 ## Usage
